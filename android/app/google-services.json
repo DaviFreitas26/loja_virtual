@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "814804548502",
+    "firebase_url": "https://lojaflutter-d0cdd.firebaseio.com",
+    "project_id": "lojaflutter-d0cdd",
+    "storage_bucket": "lojaflutter-d0cdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814804548502:android:58960d41f0faef4d93fbb7",
+        "android_client_info": {
+          "package_name": "br.com.freitas.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814804548502-bj2g0l6n479prom04hjinpisvsbkv2um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPy1eA3bMorthon3eSTBLjnUbIjELGrD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814804548502-bj2g0l6n479prom04hjinpisvsbkv2um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
