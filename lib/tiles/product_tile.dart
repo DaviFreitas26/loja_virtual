@@ -50,6 +50,7 @@ class ProductTile extends StatelessWidget {
               ],
             )
           : Row(children: <Widget>[
+//----------Flexible - define proporções do quanto cada um ocupa no espaço---------------------------------------------------------
               Flexible(
                 flex: 1,
                 child: Image.network(

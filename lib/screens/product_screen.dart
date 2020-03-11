@@ -36,7 +36,17 @@ _ProductScreenState(this.product);
           dotBgColor: Colors.transparent,
           dotColor: primaryColor,
           autoplay: false,
-          ),)
+          ),),
+          Padding(padding: EdgeInsets.all(16.0),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.stretch,
+            children: <Widget>[
+              Text(
+                
+              )
+            ]
+          ),
+          )
         ]
       ),
     );
